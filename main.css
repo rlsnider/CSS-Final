@@ -1,0 +1,33 @@
+.mona-background-grey {
+    background-color:lightgrey;
+}
+.header-color {
+    color:rgb(102, 74, 180);
+}
+.align{
+    display:flex;
+}
+.justify{
+    padding:20px;
+    justify-self:flex-end;
+    color:grey;
+}
+.roses, .baby {
+    width:100%;
+    padding:10px;
+
+}
+.radius-button {
+    background-color:rgb(102, 74, 180);
+    border-radius: 15px;
+    color:white;
+}
+.text-color {
+    color:grey;
+}
+.xs-text{
+    font-size:smaller;
+}
+.bold{
+    font-weight:bold;
+}
